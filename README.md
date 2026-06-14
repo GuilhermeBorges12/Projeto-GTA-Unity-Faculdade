@@ -6,9 +6,9 @@
 
 ## 👤 Desenvolvedor
 
-**[SEU NOME AQUI]**  
-Curso: [SEU CURSO]  
-RA: [SEU RA]
+**[Guilherme Borges Rocha]**  
+Curso: [Engenharia de Software]  
+RA: [24833]
 
 ---
 
@@ -42,29 +42,6 @@ RA: [SEU RA]
 - Complete as missões indicadas no HUD para ganhar pontos
 - Colete os itens espalhados pelo mapa
 - Evite ser capturado ao atingir o nível máximo de procurado
-
----
-
-## 🎬 Gameplay
-
-<!-- Cole aqui o link do seu vídeo do YouTube ou embed -->
-
-[![Gameplay City Chaos](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
-
-> 📹 *Clique na imagem acima para assistir ao vídeo de gameplay no YouTube*
-
----
-
-## 📸 Screenshots
-
-### Menu Principal
-![Menu Principal](screenshots/menu.png)
-
-### Gameplay - Mundo Aberto
-![Gameplay 1](screenshots/gameplay1.png)
-
-### Gameplay - Dirigindo Veículo
-![Gameplay 2](screenshots/gameplay2.png)
 
 ---
 
@@ -164,7 +141,6 @@ public class VehicleController : MonoBehaviour
 }
 ```
 
-![Screenshot do sistema de veículo](screenshots/gameplay2.png)
 
 ---
 
@@ -296,7 +272,6 @@ public class MissionManager : MonoBehaviour
 }
 ```
 
-![Screenshot do sistema de missões](screenshots/gameplay1.png)
 
 ---
 
